@@ -1,0 +1,6 @@
+[submodule "Biobase"]
+	path = Biobase
+	url = https://github.com/bioc/Biobase
+[submodule "BiocGenerics"]
+	path = BiocGenerics
+	url = https://github.com/bioc/BiocGenerics
